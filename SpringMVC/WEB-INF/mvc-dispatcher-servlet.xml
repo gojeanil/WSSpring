@@ -19,6 +19,15 @@
 	<mvc:annotation-driven />
 
 
+
+
+
+
+
+
+
+
+
 	 <bean
 		class="org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter">
 		<property name="messageConverters">
